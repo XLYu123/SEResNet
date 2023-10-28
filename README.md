@@ -3,11 +3,9 @@
 Code accompanying the paper " Squeeze and Excitation attention residual learning based on time-series fault diagnosis of autonomous underwater vehicle propellers" by Wenliao Du, YinLong Yu, Zhen Guo,  HongChao Wang and Chuan Li (Ready to be submitted for publication).
 
 Tensorflow 2.0 implementation
-Inspired by Zhen Guo 
- 
-. [Efficient channel attention residual learning for the time-series fault diagnosis of wind turbine gearboxes] (https-443/77726476706e69737468656265737421f9f8518f24396d5e7d0dc7a597456d3a7479/article/10.1088/1361-6501/acf9c0/pdf), - The Squeeze and Excitation attention mechanism (SE) gains more effect on feature extraction compared to traditional CNN.
+ Inspired by Wenliao Du et al.  [Efficient channel attention residual learning for the time-series fault diagnosis of wind turbine gearboxes] (https-443/77726476706e69737468656265737421f9f8518f24396d5e7d0dc7a597456d3a7479/article/10.1088/1361-6501/acf9c0/pdf), - The Squeeze and Excitation attention mechanism (SE) gains more effect on feature extraction compared to traditional CNN.
 SE is combined with one-dimensional ResNet for the fault diagnosis of autonomous underwater vehicle.
-This repository contains reprodce of several experiments mentioned in the paper
+This repository contains reprodce of several experiments mentioned in the paper.
 # Requirements
 python 3.11
 Tensorflow == 2.6.2

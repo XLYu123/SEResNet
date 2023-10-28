@@ -1,5 +1,5 @@
 # SEResNet
-A modified ResNet with squeeze and excitation attention mechanism
+# A modified ResNet with squeeze and excitation attention mechanism
 Code accompanying the paper " Squeeze and Excitation attention residual learning based on time-series fault diagnosis of autonomous underwater vehicle propellers" by Wenliao Du, YinLong Yu, Zhen Guo,  HongChao Wang and Chuan Li (Ready to be submitted for publication).
 
 Tensorflow 2.0 implementation

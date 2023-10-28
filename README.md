@@ -12,6 +12,7 @@ Tensorflow == 2.6.2
 Numpy == 1.19.2
 Keras == 2.6.0
 Note: All experiment were excecuted with NVIDIA GeForce GTX 1050Ti
+
 # File discription
 main-cnn: One-dimensional CNN for fault classification.
 main-eca: One-dimensional CNN with ECA for fault classification.

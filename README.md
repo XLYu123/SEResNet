@@ -21,7 +21,7 @@ main-se: One-dimensional CNN with SE for fault classification.
 main-res-se: One-dimensional ResNet with SE for fault classification. (our proposed SEResNet).
 main-resnet: One-dimensional ResNet for fault classification.
 # Implementation details
-Hyperparameter settings: Adam optimizer is used with learning rate of in both the generator and the discriminator;The batch size is , total iteration is 10,000. LABDA (Weight of cycle consistency loss) is . Random projection in SWD is .10e-4 32 10 32
+Hyperparameter settings: Adam optimizer is used with learning rate of in both the generator and the discriminator;The batch size is , total iteration is 10,000. LABDA (Weight of cycle consistency loss) is . Random projection in SWD is .1e-4 32 10 32
 # Usage
 Note: Due to the copyright, no any data set is uploaded. For more detail pelase contact Authors.
 # Ackonwledgements
